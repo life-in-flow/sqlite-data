@@ -1,0 +1,21 @@
+Package.swift
+  s_29f9a8b34b707a::t_3d72a6ed3dbe76 10
+Package@swift-6.0.swift
+  s_29f9a8b34b707a::t_df031e25f7af8a 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "721bc585b73d31ca6d2c558932394547804caf96",
+  "prompts": {},
+  "sessions": {
+    "s_29f9a8b34b707a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d59fcb94-1633-4835-8411-08c77119823e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dimitry Vinogradov <dimitryvin@gmail.com>"
+    }
+  }
+}
